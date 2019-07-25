@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Far Cry 3 Tweak Tool", "Far Cry 3 Tweak Tool\Far Cry 3 Tweak Tool.csproj", "{62F813D5-9357-476A-BB09-EBEEF3998FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F813D5-9357-476A-BB09-EBEEF3998FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F813D5-9357-476A-BB09-EBEEF3998FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F813D5-9357-476A-BB09-EBEEF3998FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F813D5-9357-476A-BB09-EBEEF3998FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B258B3CE-73D9-4BD3-8CFE-1BB36BDC7066}
+	EndGlobalSection
+EndGlobal
